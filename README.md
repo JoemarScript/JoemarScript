@@ -96,7 +96,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoemarScript&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
-[![Joemar's github stats](https://github-readme-stats.vercel.app/api?username=JoemarScript5&show_icons=true&theme=transparent&hide=prs,issues,contribs)](https://youtu.be/dQw4w9WgXcQ)
+[![Joemar's github stats](https://github-readme-stats.vercel.app/api?username=JoemarScript&show_icons=true&theme=transparent&hide=prs,issues,contribs)](https://youtu.be/dQw4w9WgXcQ)
 
 
 
